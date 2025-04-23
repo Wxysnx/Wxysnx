@@ -1,7 +1,9 @@
 # 你好，欢迎 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=你的用户名.你的用户名)
-![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-11A1F7?style=for-the-badge&logo=openai&logoColor=white)
 
 ```python
 #!/usr/bin/env python
@@ -9,13 +11,13 @@
 
 class AIEngineer:
     def __init__(self):
-        self.name = "你的名字"
-        self.role = "AI 工程师 | LLM 应用开发专家"
+        self.name = "王祥宇"
+        self.role = "AI agent 工程师 | 产品经理"
         self.language_spoken = ["中文", "English"]
         
         # AI 和机器学习技术栈
         self.ai_stack = {
-            "大语言模型框架": ["LangChain", "LangGraph", "AutoGen", "MetaGPT", "CrewAI"],
+            "ai agent 框架": ["LangChain", "LangGraph", "AutoGen", "MetaGPT", "CrewAI"],
             "机器学习框架": ["PyTorch", "TensorFlow"],
             "编程语言": ["Python"],
             "Web框架": ["FastAPI"],
@@ -25,7 +27,7 @@ class AIEngineer:
         # 专业领域
         self.specialties = [
             "LLM应用开发与优化",
-            "智能代理系统构建",
+            "ai agent 系统构建",
             "AI工作流自动化",
             "机器学习模型部署"
         ]
